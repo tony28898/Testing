@@ -3,3 +3,5 @@ newfile
 newline1
 
 newline2
+
+newline3
